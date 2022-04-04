@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ec0420e8-a39d-4d30-8c98-6f6c3018c015" name="apache2" url="http://localhost/web.local">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\web.local" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
